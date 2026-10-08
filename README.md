@@ -12,7 +12,6 @@ A sleek, modern, and modern-looking web application template designed for indust
 - **Request a Quote Section:** Embedded quote request form with background image overlays.
 - **Market Sectors & Project Showcase:** Clean card grid layouts showcasing industry sectors and completed projects.
 - **Interactive Stat Counters:** Circular numeric badges for showing company achievements and metrics.
-- **SwiperJS Slider Integration:** Smooth touch and drag-enabled slider for project cards and testimonials.
 - **Footer Section:** Multi-column dark-themed footer featuring an integrated newsletter subscription form.
 - **Mobile Responsive Layout:** CSS media queries ensuring smooth scaling from desktop to mobile screens.
 
