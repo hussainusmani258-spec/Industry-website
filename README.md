@@ -24,8 +24,7 @@ A sleek, modern, and modern-looking web application template designed for indust
 - **CSS3:** Custom styles, Flexbox grid system, CSS variables, and Media Queries.
 - **JavaScript (Vanilla):** DOM manipulation and slider initialization.
 - **FontAwesome v6:** Vector icons for navigation, buttons, and social links.
-- **SwiperJS:** Touch slider library for dynamic card carousels.
-- **Google Fonts:** Poppins font family for clean typography.
+
 
 ---
 
